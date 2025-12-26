@@ -245,4 +245,4 @@ def echo_all(message):
 # ===== RUN =====
 if __name__ == "__main__":
     print("Bot đang chạy...")
-    bot.polling(none_stop=True)
+    bot.infinity_polling()
