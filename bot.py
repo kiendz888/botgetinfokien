@@ -8,7 +8,7 @@ import re
 from datetime import datetime
 
 # ===== CONFIG =====
-BOT_TOKEN = "8340679767:AAEuCS00yCJLr4wXgWCCTPxN0rP2QsKGFTM"  # Thay bằng token thật từ BotFather
+BOT_TOKEN = "token"  # Thay bằng token thật từ BotFather
 DATA_FILE = "user_data.json"
 
 bot = telebot.TeleBot(BOT_TOKEN)
